@@ -9,5 +9,5 @@ This php service to retrieve a list of the most popular repositories.
 
 ## Usage
 run project: php -S localhost:8000
-visit: http://localhost:8000/index.php?limit=10&startDate=2020-09-01
+and visit: http://localhost:8000/index.php?limit=10&startDate=2020-09-01
 
